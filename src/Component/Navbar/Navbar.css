@@ -1,0 +1,64 @@
+.navbar{
+    background-color: rgb(28,29,57);
+    height:80px;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    height:48.47px;
+    width:116px;
+    position: absolute;
+    left: 23px;
+    top:14px;
+}
+.nav1{
+   font-style: Montserrat;
+   font-weight: 600;
+   font-size: 28px;
+   line-height: 34.13px;
+   color: #FFFFFF;
+   width: 149px;
+   height:34px;
+   padding-top: 25px;
+   padding-left:135px;
+}
+.button1{
+    width:177px;
+    height:44px;
+    top:18px;
+    font-family: Poppins;
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color:#FFFFFF;
+    border-radius: 10px;
+    position: absolute;
+    left: 996px;
+    border-color: #00C88C;
+    border-width: 1px;
+    border-style: solid;
+    
+
+}
+.button2{
+    background-color: #00C88C;
+    width:184px;
+    height:44px;
+    top:18px;
+    left: 1184px;
+    font-family: Poppins;
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color:#FFFFFF;
+    position:absolute;
+    border-radius: 10px;
+    border-color: #00C88C;
+    align-content: center;
+    text-align: center;
+    
+}

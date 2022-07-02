@@ -1,0 +1,264 @@
+.button1{
+    display: flex;
+    flex-direction: column;
+}
+.first-line{
+    position:absolute;
+    width:220px;
+    height:33px;
+    left:800px;
+    top:284px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(255,255,255,0.8);
+}
+.result{
+    position: absolute;
+    width:152px;
+    height:33px;
+    left:1181px;
+    top:284px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    color:#FFFFFF;
+}
+.second-line{
+position: absolute;
+width: 227px;
+height: 33px;
+left: 800px;
+top: 333px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+}
+.result1{
+position: absolute;
+width: 145px;
+height: 33px;
+left: 1191px;
+top: 333px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+color: #FFFFFF;
+}
+.third-line{
+position: absolute;
+width: 302px;
+height: 33px;
+left: 800px;
+top: 381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+}
+.result2{
+    position: absolute;
+width: 96px;
+height: 33px;
+left: 1237px;
+top: 381px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+color: #FFFFFF;
+}
+.fourth-line{
+    position: absolute;
+width: 133px;
+height: 33px;
+left: 800px;
+top: 429px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+}
+.result3{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 1296px;
+    top: 430px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.fifth-line{
+    position: absolute;
+width: 152px;
+height: 33px;
+left: 800px;
+top: 475px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+}
+.result4{
+    position: absolute;
+    width: 88px;
+    height: 33px;
+    left: 1248px;
+    top: 475px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.sixth-line{
+    position: absolute;
+width: 109px;
+height: 33px;
+left: 800px;
+top: 526px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+}
+.bx{
+    position: absolute;
+width: 292px;
+height: 27px;
+left: 800px;
+top: 570px;
+
+background: #00C88C;
+border-radius: 50px 0px 0px 50px;
+text-align: center;
+align-items: center;
+align-content: center;
+}
+.bx1{
+    position: absolute;
+width: 292px;
+height: 27px;
+left: 1037px;
+top: 570px;
+
+background: rgba(217, 217, 217, 0.2);
+border-radius: 50px;
+}
+.input{
+position: absolute;
+width: 414px;
+height: 40px;
+left: 800px;
+top: 660px;
+background: rgba(217, 217, 217, 0.2);
+text-align: center;
+}
+.max{
+position: absolute;
+width: 115px;
+height: 40px;
+left: 1214px;
+top: 660px;
+background: #FFFFFF;
+align-items: center;
+text-align: center;
+
+}
+.st_token{
+position: absolute;
+width: 187px;
+height: 33px;
+left: 800px;
+top: 617px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.8);
+}
+
+.stake1{
+    position: absolute;
+    width: 258px;
+    height: 37px;
+    left: 806px;
+    top: 744px;
+    
+    background: #F6FFFC;
+    border-radius: 10px;  
+    text-align: center;
+    align-content: space-around;
+    align-self: center;
+}
+.stake2{
+    position: absolute;
+    width: 250px;
+    height: 37px;
+    left: 1079px;
+    top: 744px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    text-align: center;
+    align-content: space-around;
+    align-self: center;
+}
+.emergency{
+    width:526px;
+    height:37px;
+    top:799px;
+    left:806px;
+    border-radius: 10px;
+    background-color: #FF0000;
+    position:absolute;
+    text-align: center;
+}
+    .main11{
+      position: absolute;
+      width: 598px;
+      height: 641px;
+      left: 774px;
+      top: 258px;
+      /* z-index:0; */
+      background: #1C1D39;
+      box-shadow: 5px 5px 6px -19px #FFFFFF;
+      border-radius: 0px 0px 10px 10px;
+      }  
